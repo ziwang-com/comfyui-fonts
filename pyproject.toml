@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-font"
+description = "This extension provides a node that allows you use any type's font:truetype,jpg,gif,video,api,..."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ziwang-com/ComfyUI-Font"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "zwai"
+DisplayName = "ComfyUI-Font"
+Icon = ""
