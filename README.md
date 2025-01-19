@@ -23,14 +23,6 @@ ComfyUI-fonts
 ### 正确目录结构为：
 * ComfyUI/custom_nodes/comfyui_fonts
 * 
-###  assets资源目录
-* 有demo-workflow工作流
-* 配套的图像素材
-* 两套开源中文字体：字王大藏经开源字体，阿里普惠体
-* 默认ttf字体文件，须copy复制到以下目录：
-* ComfyUI/fonts
-* 
-  ![zwfnt-dir](https://github.com/user-attachments/assets/1a24c4be-0236-45f3-9705-84264f594b09)
 
 ## 主要节点
 * zw-font: 本地标准ttf字体文件接口
@@ -40,3 +32,44 @@ ComfyUI-fonts
 * zw-font-ucode: 内置字符串-ucod转换节点
 * zw-font-mov: 隐含节点，未开放，动态视频字体接口
   
+###  assets资源目录
+* 有demo-workflow工作流
+* 配套的图像素材
+* 两套开源中文字体：字王大藏经开源字体，阿里普惠体
+* 默认ttf字体文件，须copy复制到以下目录：
+* ComfyUI/fonts
+  
+  ![zwfnt-dir](https://github.com/user-attachments/assets/1a24c4be-0236-45f3-9705-84264f594b09)
+
+![zwfnt-dir-pic-ucod](https://github.com/user-attachments/assets/3d78fb97-6818-4ef4-9343-feff7b5d45bd)
+
+![zwfnt-dir-mov-ucod](https://github.com/user-attachments/assets/0829cbda-d186-42b3-ba6b-fb4331ccfd7f)
+
+
+
+## 主要节点-demo
+# 参见assets资源目录，有demo-workflow工作流
+![cfnt001](https://github.com/user-attachments/assets/8bdc7efe-8817-4195-82bc-ce3d424f8480)
+
+![cfnt002pic-v](https://github.com/user-attachments/assets/10f74249-7df8-44d3-82ed-73a426a62603)
+
+![cfnt011ucod](https://github.com/user-attachments/assets/33c41225-2c1f-4bfd-be4d-e9d7aefe6c78)
+
+![cfnt011ucod2](https://github.com/user-attachments/assets/27c93537-6c9a-482d-915f-bb3c155a4f84)
+
+
+## 补充说明
+*  字体使用，有严格的IP版权规定，请大家注意相关法规。
+*  除ttf字体文件接口外，其他节点尚未加入去底功能。
+*  api远程模式，调用的是内部测试服务器。
+*  未来会增加字幕、动态切换、数字人、短视频集成等功能。
+*  #
+*  zwai团队，超过30年AI字王字体开放经验。
+*  独家拥有1w套以上字王字库IP版权，国标二级。
+*  授权方式灵活，有兴趣的结构和个人，请联系zwai开源组负责人。
+
+  ![image](https://github.com/user-attachments/assets/652e3660-1ff6-47d1-b815-ae26c650c2b6)
+
+
+
+
