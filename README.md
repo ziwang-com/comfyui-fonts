@@ -1,6 +1,7 @@
-# comfyui-fonts
 # comfyUI-fonts
  
+![cfnt001](https://github.com/user-attachments/assets/6fa46a33-68a1-4360-bb0e-8b132d0b3c6a)
+
 * comfy-font万能字体节点node，支持truetype，freetype，open1等经典字库格式，也支持jpg、png等图片格式，还支持gif、短视频等各种视频格式，以及api接口。
 * Comfy font universal font node, supporting classic font library formats such as Truetype, FreeType, Open1, as well as image formats such as JPG and PNG. It also supports various video formats such as GIF and short videos, as well as API interfaces.
 
