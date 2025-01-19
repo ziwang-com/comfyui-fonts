@@ -22,17 +22,21 @@ ComfyUI-fonts
 
 ### 正确目录结构为：
 * ComfyUI/custom_nodes/comfyui_fonts
+* 
+###  assets资源目录
+* 有demo-workflow工作流
+* 配套的图像素材
+* 两套开源中文字体：字王大藏经开源字体，阿里普惠体
+* 默认ttf字体文件，须copy复制到以下目录：
+* ComfyUI/fonts
+* 
+  ![zwfnt-dir](https://github.com/user-attachments/assets/1a24c4be-0236-45f3-9705-84264f594b09)
 
 ## 主要节点
-* zw-font: 本地标准字体文件接口
+* zw-font: 本地标准ttf字体文件接口
 * zw-font-pic: 本地图像字体文件接口
 *  #
 * zw-font-api: 远程服务器api接口，云字库模式
 * zw-font-ucode: 内置字符串-ucod转换节点
 * zw-font-mov: 隐含节点，未开放，动态视频字体接口
-*   zw_font_api,
-    #
-    "zw-font-pic": zw_font_pic,
-    #"zw-font-mov": zw_font_mov,
-    #
-    "zw-font-ucode": zw_ucod,
+  
