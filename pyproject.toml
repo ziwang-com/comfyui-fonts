@@ -10,5 +10,5 @@ Repository = "https://github.com/ziwang-com/comfyui-fonts"
 
 [tool.comfy]
 PublisherId = "zwai"
-DisplayName = "ComfyUI-Fonts"
+DisplayName = "ComfyUI-Font"
 Icon = ""
