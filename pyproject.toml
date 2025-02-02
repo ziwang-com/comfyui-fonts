@@ -5,7 +5,7 @@ version = "1.0.0"
 license = "LICENSE"
 
 [project.urls]
-Repository = "https://github.com/ziwang-com/ComfyUI-Font"
+Repository = "https://github.com/ziwang-com/comfyui-fonts"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
