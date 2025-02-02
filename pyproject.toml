@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-font"
 description = "This extension provides a node that allows you use any type's font:truetype,jpg,gif,video,api,..."
-version = "1.0.0"
+version = "1.0.2"
 license = "LICENSE"
 
 [project.urls]
